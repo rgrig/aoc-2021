@@ -6,3 +6,4 @@ Some solutions.
  - day  6:  https://youtu.be/1yXIDJrVXAI
  - day  7:  https://youtu.be/KKpx5qa1BA4
  - day  8:  https://youtu.be/Akn5jER4Opg
+ - day  9:  https://youtu.be/4LAFUYjFy1o
