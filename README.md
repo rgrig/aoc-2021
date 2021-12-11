@@ -7,3 +7,4 @@ Some solutions.
  - day  7:  https://youtu.be/KKpx5qa1BA4
  - day  8:  https://youtu.be/Akn5jER4Opg
  - day  9:  https://youtu.be/4LAFUYjFy1o
+ - day 10:  https://youtu.be/nPuzy2RE_CE
