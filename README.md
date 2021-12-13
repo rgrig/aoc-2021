@@ -9,3 +9,4 @@ Some solutions.
  - day  9:  https://youtu.be/4LAFUYjFy1o
  - day 10:  https://youtu.be/nPuzy2RE_CE
  - day 11:  https://youtu.be/m_9EQDbmFzI
+ - day 12:  https://youtu.be/Ugfc4FIwyk0
