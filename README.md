@@ -10,3 +10,5 @@ Some solutions.
  - day 10:  https://youtu.be/nPuzy2RE_CE
  - day 11:  https://youtu.be/m_9EQDbmFzI
  - day 12:  https://youtu.be/Ugfc4FIwyk0
+ - day 13:  https://youtu.be/kY6ChC0lUno
+ - day 14:  missing :(
